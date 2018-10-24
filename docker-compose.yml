@@ -1,0 +1,18 @@
+version: '3.0'
+
+services:
+  api:
+    build: ./finalcode_docker/finalcode
+    volumes:
+      - ./finalcode_docker/finalcode:/usr/src/app
+    ports: 
+      - 5001:80
+  
+  scheduler:
+    build: ./finalcode_docker
+    volumes:
+      - ./finalcode_docker:/usr/src/app
+    depends_on:
+      - api
+      
+

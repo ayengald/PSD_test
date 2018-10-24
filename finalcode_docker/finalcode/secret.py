@@ -1,0 +1,7 @@
+
+client_id='gcuG5hcXWIYAQpmfYzI8xSPp7qeFXLn3ebeCR21K'
+client_secret='EpXD7cCSnorqetMSgFy2WDPQYBsnpm1SFcKvxzzAriickJVvFNFpvu2nvuTgpB8A5OKKdQ1LFtkQgPRzJ3EmuyNllahP4l1LynhDtT0lpAoqo4Q4biyqlmgadehr6Ck9'
+sftp_username="orionattributeimport"
+sftp_password="SGUXvDxjSGbNC6yh"
+username="orionattributeimport"
+password="SGUXvDxjSGbNC6yh"
